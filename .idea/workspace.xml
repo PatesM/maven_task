@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1e2c7bf4-8015-4c6a-8b9e-0ec2389e1b73" name="Changes" comment="Added solution of the task">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/maxqa/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/maxqa/Human.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/maxqa/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/maxqa/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +45,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "onboarding.tips.debug.path": "C:/Users/79085/Desktop/QA/KATA/2. Java/mavenTask/src/main/java/org/maxqa/Main.java",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -78,7 +78,9 @@
       <option name="presentableId" value="Default" />
       <updated>1695405979018</updated>
       <workItem from="1695405979849" duration="418000" />
-      <workItem from="1695451595436" duration="3426000" />
+      <workItem from="1695451595436" duration="4197000" />
+      <workItem from="1695545543260" duration="81000" />
+      <workItem from="1695811677205" duration="244000" />
     </task>
     <task id="LOCAL-00001" summary="Added solution of the task">
       <option name="closed" value="true" />
@@ -88,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695452597628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added solution of the task">
+      <option name="closed" value="true" />
+      <created>1695455058937</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695455058937</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

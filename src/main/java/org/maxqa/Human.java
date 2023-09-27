@@ -8,7 +8,6 @@ import lombok.*;
 @AllArgsConstructor
 @ToString
 public class Human {
-
-  String firstName;
-  String lastName;
+    private String firstName;
+    private String lastName;
 }
